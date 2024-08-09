@@ -13,7 +13,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://Hoangthai7598.github.io/Lab-20.1",
+  "homepage": "https://hoangthai7598.github.io/Lab-20.1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
